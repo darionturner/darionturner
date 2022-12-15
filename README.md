@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @darionturner
 - 👀 I’m interested in quant trading, algo trading, hft
-- 🌱 I’m currently learning python, financial engineering, strategy development and 
+- 🌱 I’m currently learning python, financial engineering, strategy development and algo dev
 - 💞️ I’m looking to collaborate on building automated trading systems for APIs of retail trading platforms.
 - 📫 How to reach me darionturner@gmail.com
 
